@@ -1,0 +1,13 @@
+@import url('fuentes.css');
+
+/*
+    Los nombre de las fuentes disponibles a utilizar son:
+         - 'SohoStd'
+         - 'SohoStd-Light'
+         - 'SohoStd-Bold'
+ */
+
+body{
+    font-size: 16px;
+    font-family: 'SohoStd';
+}
